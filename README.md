@@ -18,4 +18,4 @@
 ## ***Как использовать проект?***
 >—для того чтобы распазнать почерк, необходимо открыть «Google Teachable Machine», меню камеры и поднести камеру близко к изображению с текстом. Камера должна быть сфокусирована
 
-https://teachablemachine.withgoogle.com/train/image
+[https://teachablemachine.withgoogle.com/train/image](https://teachablemachine.withgoogle.com/models/4_852cYxh/)
